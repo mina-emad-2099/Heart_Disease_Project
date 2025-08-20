@@ -1,0 +1,41 @@
+Logistic Regression
+Accuracy: 0.833
+Precision: 0.875
+Recall: 0.750
+F1: 0.808
+ROC-AUC: 0.919
+
+Decision Tree
+Accuracy: 0.783
+Precision: 0.800
+Recall: 0.714
+F1: 0.755
+ROC-AUC: 0.779
+
+Random Forest
+Accuracy: 0.833
+Precision: 0.846
+Recall: 0.786
+F1: 0.815
+ROC-AUC: 0.914
+
+SVM (RBF)
+Accuracy: 0.850
+Precision: 0.852
+Recall: 0.821
+F1: 0.836
+ROC-AUC: 0.938
+
+K-Means ARI (vs true labels): 0.256
+K-Means Silhouette Score: 0.261
+
+Hierarchical ARI (vs true labels): 0.216
+Hierarchical Silhouette Score: 0.212
+
+Fitting 5 folds for each of 108 candidates, totalling 540 fits
+Best Random Forest Params: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 100}
+Best Random Forest AUC: 0.901140873015873
+
+Fitting 5 folds for each of 8 candidates, totalling 40 fits
+Best SVM Params: {'kernel': 'rbf', 'gamma': 0.01, 'C': 100}
+Best SVM AUC: 0.9083085317460318
