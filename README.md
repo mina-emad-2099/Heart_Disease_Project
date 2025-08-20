@@ -178,12 +178,3 @@ Heart_Disease_Project/
 ## **5. Dataset**
 [Heart Disease UCI Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)  
 
----
-
-This README covers **all details** of your project, workflow, and structure.  
-
----
-
-If you want, I can also **add badges and a “Quick Start” section with commands** so it looks more professional on GitHub.  
-
-Do you want me to do that?
